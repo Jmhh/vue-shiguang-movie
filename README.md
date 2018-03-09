@@ -9,9 +9,5 @@ Build Setup
 `# install dependencies
 
 npm install
-
-npm run dev
-
-23333333333
 `
 
