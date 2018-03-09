@@ -16,7 +16,7 @@ npm run dev
 npm run build
 ```
 
-项目整体效果
+动态效果演示
 ---
 
 
