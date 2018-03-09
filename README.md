@@ -5,7 +5,8 @@
 该项目基于 douban_Website项目,尝试使用了Vue.js
   
 Build Setup
-`# install dependencies \<br>
+
+`# install dependencies
 npm install
 `
 
