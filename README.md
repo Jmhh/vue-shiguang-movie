@@ -19,4 +19,17 @@ npm run build
 动态效果演示
 ---
 
-
+<pre>
+├── src
+├── src
+├── src
+├── src
+   ├── assets 
+   ├── assets 
+   ├── assets 
+   ├── assets 
+       ├── assets 
+       ├── assets 
+       ├── assets 
+       ├── assets 
+<pre>
