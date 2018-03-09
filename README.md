@@ -24,12 +24,12 @@ npm run build
 ├── src
 ├── src
 ├── src
-   ├── assets 
-   ├── assets 
-   ├── assets 
-   ├── assets 
-       ├── assets 
-       ├── assets 
-       ├── assets 
-       ├── assets 
+├   ├── assets 
+├   ├── assets 
+├   ├── assets 
+├   ├── assets 
+├   ├── assets 
+├   ├── assets 
+├   ├── assets 
+├   ├── assets 
 <pre>
