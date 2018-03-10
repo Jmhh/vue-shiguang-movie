@@ -1,5 +1,5 @@
 
-使用webapp Vue2.0+webpack+es6+vuex搭建的时光网电影webapp
+使用Vue2.0+webpack+es6+vuex搭建的时光网电影webapp
 ====
 简介:
 ---
