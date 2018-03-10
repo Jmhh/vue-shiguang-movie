@@ -21,19 +21,9 @@ npm run build
 动态效果演示
 ---
 
+目录结构
+---
 <pre>
-├── src
-├── src
-├── src
-├── src
-├   ├── assets 
-├   ├── assets 
-├   ├── assets 
-├   ├── assets 
-├   ├── assets 
-├   ├── assets 
-├   ├── assets 
-├   ├── assets 
 
 ├── README.md           
 ├── build              // 构建服务和webpack配置
