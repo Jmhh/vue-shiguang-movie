@@ -20,6 +20,7 @@ npm run build
 
 动态效果演示
 ---
+![image](https://github.com/buptsky/vue-douban-movie/raw/master/screenshots/detail.gif)
 
 目录结构
 ---
