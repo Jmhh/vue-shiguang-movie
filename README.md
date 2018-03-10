@@ -18,7 +18,7 @@ npm run dev
 npm run build
 ```
 
-动态效果演示
+部分截图
 ---
 
 目录结构
