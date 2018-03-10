@@ -3,7 +3,7 @@
 ====
 简介:
 ---
-该项目基于 douban_Website项目,尝试使用了Vue.js
+api 
   
 Build Setup
 ---
