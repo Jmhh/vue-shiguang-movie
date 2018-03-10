@@ -32,9 +32,13 @@ npm run build
 ├── index.html         // 项目入口文件
 ├── package.json       // 项目配置文件
 ├── src
-│   ├── assets         // css js 和图片资源
-│   ├── components     // 各种组件
-│   ├── mock           // 模拟数据
-│   ├── pages          // 各页面
-│   ├── router         // 存放路由的文件夹
+│   ├── api            // axios请求，获取项目数据
+│   ├── assets         // 各种资源
+│   ├── common         // 公共组件
+│   ├── components     // 业务组件
+│   ├── router         // 路由文件夹
+│   ├── util           // 本地缓存
+│   ├── views          // 页面
+│   ├── vuex           // vuex
+├── static
 <pre>
