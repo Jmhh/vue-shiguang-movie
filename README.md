@@ -10,11 +10,13 @@ api
 * vue2
 * vue-router2
 * vuex
+* mint-ui
+* localstorage
 * webpack3
-* es6
 * axios
-* vue-infinite-scroll
-* vue-lazyload
+* es6
+* less
+
 
 Build Setup
 ---
