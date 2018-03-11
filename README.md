@@ -21,6 +21,11 @@ npm run build
 部分截图
 ---
 
+![image](https://github.com/Jmhh/vue-shiguang-movie/blob/master/screenshots/1.png)
+![image](https://github.com/Jmhh/vue-shiguang-movie/blob/master/screenshots/2.png)
+![image](https://github.com/Jmhh/vue-shiguang-movie/blob/master/screenshots/3.png)
+![image](https://github.com/Jmhh/vue-shiguang-movie/blob/master/screenshots/4.png)
+
 目录结构
 ---
 <pre>
