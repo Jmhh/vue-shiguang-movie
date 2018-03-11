@@ -38,12 +38,12 @@ npm run build
 ├── package.json       // 项目配置文件
 ├── src
 │   ├── api            // axios请求，获取项目数据
-│   ├── assets         // 各种资源
+│   ├── assets         // 资源文件
 │   ├── common         // 公共组件
 │   ├── components     // 业务组件
 │   ├── router         // 路由文件夹
-│   ├── util           // 本地缓存
-│   ├── views          // 页面
-│   ├── vuex           // vuex
+│   ├── util           // 缓存配置
+│   ├── views          // 页面组件
+│   ├── vuex           // vuex配置
 ├── static
 <pre>
