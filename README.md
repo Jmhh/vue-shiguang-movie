@@ -4,7 +4,18 @@
 简介:
 ---
 api 
-  
+
+技术栈:
+---
+* vue2
+* vue-router2
+* vuex
+* webpack3
+* es6
+* axios
+* vue-infinite-scroll
+* vue-lazyload
+
 Build Setup
 ---
 ```
